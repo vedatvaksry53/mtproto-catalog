@@ -2,7 +2,7 @@
 
 Каталог собирает MTProto-прокси из открытых списков и каналов, убирает дубли и проверяет каждый сервер рукопожатием — так отсеиваются заглушки и мёртвые адреса. Обновление идёт раз в час, поэтому таблица всегда отражает текущее состояние, а не то, что было неделю назад.
 
-Сайт: https://vedatvaksry53.github.io/mtproto-catalog/ · полный список: https://vedatvaksry53.github.io/mtproto-catalog/proxy.html · 900 серверов, обновлено 26.09.2026 14:07 МСК.
+Сайт: https://vedatvaksry53.github.io/mtproto-catalog/ · полный список: https://vedatvaksry53.github.io/mtproto-catalog/proxy.html · 900 серверов, обновлено 26.09.2026 15:08 МСК.
 
 - [MTProxy (главный каталог)](https://tgmtproxy.github.io/mtproxy/)
 - [Прокси-Радар](https://ferhatacer90.github.io/mtproxy-list/)
